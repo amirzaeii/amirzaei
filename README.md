@@ -2,8 +2,8 @@
 
 Hi there 👋
 
-- 💬 
-- ⚡ I love languages..I can speak persian, english and kurdish and I'm learning Turkish (and computer language also )
+- 💬 a father, a developer and a local soccer player
+- ⚡ I love languages..I can speak persian, english and kurdish and I'm learning Turkish (and computer's language also )
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amirzaeii&show_icons=true&count_private=true&include_all_commits=true&theme=bear" />
